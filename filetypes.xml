@@ -5,9 +5,8 @@
       <mapping ext="ttf" type="Native" />
       <mapping pattern="gulp_old,js" type="PLAIN_TEXT" />
       <mapping pattern="gulp_old" type="PLAIN_TEXT" />
-      <mapping pattern="*.postcss.css" type="SCSS" />
+      <mapping pattern="*postcss.css" type="SCSS" />
       <mapping pattern=".css" type="Sass" />
-      <mapping pattern="postcss.css" type="Sass" />
     </extensionMap>
   </component>
 </application>
