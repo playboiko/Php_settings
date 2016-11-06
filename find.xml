@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'template'" />
-    <option name="defaultScopeName" value="Project 'template'" />
-    <option name="SEARCH_SCOPE" value="Project 'template'" />
+    <option name="customScope" value="Directory '[gulp] - ...'" />
+    <option name="defaultScopeName" value="Directory '[gulp] - ...'" />
+    <option name="SEARCH_SCOPE" value="Directory '[gulp] - ...'" />
   </component>
 </application>
